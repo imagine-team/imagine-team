@@ -5,8 +5,7 @@
 
 **Meet the Team!**
 
-We're a passionate group of developers dedicated to building a powerful and user-friendly photo application. Here's how
-you can connect with each team member:
+We're a passionate team of developers dedicated to crafting robust, user-friendly backend applications. Connect with our team members below:
 
 * **Kyrylo Chalov** ([github.com/KyryloChalov](https://github.com/KyryloChalov))
 * **Oleksandr** ([github.com/1Oleksandr](https://github.com/1Oleksandr))
