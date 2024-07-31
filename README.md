@@ -13,8 +13,6 @@ you can connect with each team member:
 * **Jurij Procenko** ([github.com/JurijProcenko](https://github.com/JurijProcenko))
 * **Oleksiy M** ([github.com/OleksiyM](https://github.com/OleksiyM))
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 imagine-team/imagine-team is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
