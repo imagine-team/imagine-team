@@ -18,4 +18,4 @@ imagine-team/imagine-team is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imagine-team&theme=default&hide_border=true" alt="imagine-team's GitHub Stats" />
+![imagine-team's Stats](https://github-readme-stats.vercel.app/api?username=imagine-team&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
