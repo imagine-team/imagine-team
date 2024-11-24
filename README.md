@@ -17,3 +17,5 @@ We're a passionate team of developers dedicated to crafting robust, user-friendl
 imagine-team/imagine-team is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imagine-team&theme=default&hide_border=true" alt="imagine-team's GitHub Stats" />
