@@ -17,7 +17,7 @@ We're a passionate team of developers dedicated to crafting robust, user-friendl
 imagine-team/imagine-team is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!-- 
 ![imagine-team's Stats](https://github-readme-stats.vercel.app/api?username=imagine-team&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imagine-team&hide=starrs)
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=imagine-team&show_icons=true" />
 </picture>
 
-
+--->
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
